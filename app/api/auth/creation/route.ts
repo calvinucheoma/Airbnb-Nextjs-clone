@@ -33,5 +33,5 @@ export const GET = async () => {
     });
   }
 
-  return NextResponse.redirect('http://localhost:3000');
+  return NextResponse.redirect('https://airbnb-v1-ck.vercel.app');
 };
